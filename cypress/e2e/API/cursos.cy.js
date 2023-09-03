@@ -37,6 +37,8 @@ describe(" Validação de dados de api", () => {
     //   expect(data[0].curso_ferias).to.equal("N");
     //   expect(data[0].aplica_cupom_black_week).to.equal("N");
     //   expect(data[0].valor_cupom_black_week).to.be.null;
+
+      //123, TESTANDO....
     });
   });
 });
